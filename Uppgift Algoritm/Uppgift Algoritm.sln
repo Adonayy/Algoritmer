@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Uppgift Algoritm", "Uppgift Algoritm\Uppgift Algoritm.vcxproj", "{F346C1EA-DA41-43F3-AC84-9AC7B685648F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F346C1EA-DA41-43F3-AC84-9AC7B685648F}.Debug|x64.ActiveCfg = Debug|x64
+		{F346C1EA-DA41-43F3-AC84-9AC7B685648F}.Debug|x64.Build.0 = Debug|x64
+		{F346C1EA-DA41-43F3-AC84-9AC7B685648F}.Debug|x86.ActiveCfg = Debug|Win32
+		{F346C1EA-DA41-43F3-AC84-9AC7B685648F}.Debug|x86.Build.0 = Debug|Win32
+		{F346C1EA-DA41-43F3-AC84-9AC7B685648F}.Release|x64.ActiveCfg = Release|x64
+		{F346C1EA-DA41-43F3-AC84-9AC7B685648F}.Release|x64.Build.0 = Release|x64
+		{F346C1EA-DA41-43F3-AC84-9AC7B685648F}.Release|x86.ActiveCfg = Release|Win32
+		{F346C1EA-DA41-43F3-AC84-9AC7B685648F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2798F9EF-9A32-46D0-BD7D-408E21BCEB44}
+	EndGlobalSection
+EndGlobal
